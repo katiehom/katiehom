@@ -7,7 +7,7 @@
 </h2>
 
 <h2 align="center">
-  An innovative and driven Full Stack Web Developer and Freelancer!
+  An innovative and driven Full Stack Web Developer and Freelancer
 </h2>
 
 <!-- <h1 align="center">Hi 👋, I'm Katie Hom</h1>
