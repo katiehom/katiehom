@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://katiehom.netlify.app/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/52755177/167319207-7c2701c5-704a-43b8-9f70-69da12f9fd78.png" alt="Katie Hom banner"></a>
+  <a href="https://katiehom.netlify.app/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/52755177/167321904-bc5e4160-5353-405b-84ac-f1f5d7b81f30.png" alt="Katie Hom banner"></a>
 </p>
 
 <h3 align="center">
@@ -9,4 +9,5 @@
 <h2 align="center">
   I'm a Full Stack Web Developer and Freelancer!
 </h2>
+
 
