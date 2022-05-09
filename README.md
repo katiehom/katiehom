@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://katiehom.netlify.app/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/52755177/167321904-bc5e4160-5353-405b-84ac-f1f5d7b81f30.png" alt="Katie Hom banner"></a>
+  <a href="https://katiehom.netlify.app/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/52755177/167436226-789e3401-1a74-4e71-b6fe-a319fd30c02f.png" alt="Katie Hom banner"></a>
 </p>
 
 <h2 align="center">
