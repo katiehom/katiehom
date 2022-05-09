@@ -1,17 +1,17 @@
 <p align="center">
   <a href="https://katiehom.netlify.app/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/52755177/167321904-bc5e4160-5353-405b-84ac-f1f5d7b81f30.png" alt="Katie Hom banner"></a>
 </p>
-<!-- 
+
 <h3 align="center">
-  Hi there, I'm <a href="https://katiehom.netlify.app/" target="_blank" rel="noreferrer">Katie</a>
+  Hi there, 👋 I'm <a href="https://katiehom.netlify.app/" target="_blank" rel="noreferrer">Katie</a>
 </h3>
 
 <h2 align="center">
-  I'm a Full Stack Web Developer and Freelancer!
-</h2> -->
+  I'm an innovative and driven Full Stack Web Developer and Freelancer!
+</h2>
 
-<h1 align="center">Hi 👋, I'm Katie Hom</h1>
-<h3 align="center">An Innovative and Driven Full Stack Web Developer</h3>
+<!-- <h1 align="center">Hi 👋, I'm Katie Hom</h1>
+<h3 align="center">An Innovative and Driven Full Stack Web Developer</h3> -->
 
 - 🔭 I’m currently working on [SongBeats](https://songbeats.netlify.app)
 
