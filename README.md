@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **Incorporating tech into music education**
 
-- 📫 How to reach me **katiehomwebdev@gmail.com**
+- 📫 How to reach me **katie@katiehom.com**
 
 - ⚡ Fun fact **I won $100 on The Price is Right**
 
