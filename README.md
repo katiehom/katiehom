@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [SongBeats](https://songbeats.netlify.app) and other upcoming projects
 
-- 🌱 I’m currently learning **JavaScript, APIs, Node.js, MongoDB, React, OOP**
+- 🌱 I’m currently learning **APIs, Node.js, Express, MongoDB, React**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
