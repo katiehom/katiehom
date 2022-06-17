@@ -13,7 +13,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Katie Hom</h1>
 <h3 align="center">An Innovative and Driven Full Stack Web Developer</h3> -->
 
-- 🔭 I’m currently working on developing full stack projects
+- 🔭 I’m currently working on developing full stack web applications and freelancing projects
 
 - 🌱 I’m currently learning **APIs, Node.js, Express, MongoDB, React**
 
