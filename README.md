@@ -34,7 +34,7 @@
   <a href="https://github.com/katiehom/theoryrevolution" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=1f1591&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="http://travelara.herokuapp.com" target="_blank">
+  <a href="https://theoryrevolution.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=c90c64&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -52,7 +52,7 @@
   <a href="https://github.com/katiehom/song-beats" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=1f1591&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
+  <a href="https://songbeats.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=c90c64&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -62,7 +62,7 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">ShawnCharles.com</h3>
+      <h3 align="center">KatieHom.com</h3>
       <br />
         <a target="_blank" href="https://katiehom.netlify.app">
           <img src="https://user-images.githubusercontent.com/52755177/180623739-fbf4f9ef-d1e2-4cb3-8717-0f139b4af221.gif" width="100%" alt="Portfolio"/>
