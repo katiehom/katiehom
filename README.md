@@ -138,3 +138,8 @@
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=1f1591&style=plastic&logo=angellist&logo-color=white"/>
   </a>
 </p>
+
+----------
+<p align="center">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=katiehom&theme=dark&hide_border=true&currStreakLabel=E30D88&fire=E30D88&ring=7CDCE3&background=050B26&dates=7CDCE3)](https://git.io/streak-stats)
+</p>
