@@ -2,8 +2,6 @@
   <a href="https://katiehom.netlify.app/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/52755177/167436226-789e3401-1a74-4e71-b6fe-a319fd30c02f.png" alt="Katie Hom banner"></a>
 </p>
 
-As a software engineer and former music educator, I approach obstacles with effective communication, patience, and creativity. My passion lies in creating sparks of imagination to transform ideas into deliverable code.
-
 <p align="center">
   <a href="https://katiehom.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=c90c64&style=plastic&logo=react&logo-color=white"/>
@@ -19,6 +17,7 @@ As a software engineer and former music educator, I approach obstacles with effe
   </a>
 </p>
 
+As a software engineer and former music educator, I approach obstacles with effective communication, patience, and creativity. My passion lies in creating sparks of imagination to transform ideas into deliverable code.
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
