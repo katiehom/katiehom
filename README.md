@@ -24,11 +24,6 @@
 </p>
 
 ----------
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=katiehom&theme=dark&hide_border=true&currStreakLabel=E30D88&fire=E30D88&ring=7CDCE3&background=050B26&dates=7CDCE3" alt="GitHub Streak Stats"/>
-</p>
-
-----------
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
@@ -108,7 +103,12 @@
   </tr>
 </table>
 
------------
+----------
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=katiehom&theme=dark&hide_border=true&currStreakLabel=E30D88&fire=E30D88&ring=7CDCE3&background=050B26&dates=7CDCE3" alt="GitHub Streak Stats"/>
+</p>
+
+----------
 
 <h1 align="center">Technologies</h1>
 
