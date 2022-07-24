@@ -23,6 +23,13 @@
     My passion lies in creating sparks of imagination to transform ideas into deliverable code.
 </p>
 
+----------
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=katiehom&theme=dark&hide_border=true&currStreakLabel=E30D88&fire=E30D88&ring=7CDCE3&background=050B26&dates=7CDCE3" alt="GitHub Streak Stats"/>
+</p>
+
+----------
+
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
@@ -137,9 +144,4 @@
   <a href="https://angel.co/u/katie-hom" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=1f1591&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-</p>
-
-----------
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=katiehom&theme=dark&hide_border=true&currStreakLabel=E30D88&fire=E30D88&ring=7CDCE3&background=050B26&dates=7CDCE3" alt="GitHub Streak Stats"/>
 </p>
