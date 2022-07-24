@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://katiehom.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=c90c64&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=c90c64&style=plastic&logo=netlify&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/katiehom/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=1f1591&style=plastic&logo=linkedin&logo-color=white"/>
@@ -55,7 +55,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=1f1591&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://songbeats.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=c90c64&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=c90c64&style=plastic&logo=netlify&logo-color=white"/>
   </a>
       </p>
         <p><strong>Javascript, HTML, & CSS</strong> - Find a list of the top 100 songs at your ideal tempo.</p>
@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=1f1591&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="http://katiehom.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=c90c64&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=c90c64&style=plastic&logo=netlify&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio site displaying my work and contact information.</p>
@@ -93,7 +93,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=1f1591&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://ben-folds-api.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=c90c64&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=c90c64&style=plastic&logo=heroku&logo-color=white"/>
   </a>
       </p>
         <p><strong>Node.js, Express.js, MongoDB, JavaScript, HTML5, & CSS3</strong> - Search for any Ben Folds or Ben Folds Five song to see the album cover and explore more information about the album.</p>
