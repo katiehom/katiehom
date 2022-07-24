@@ -18,6 +18,7 @@
 </p>
 
 As a software engineer and former music educator, I approach obstacles with effective communication, patience, and creativity. 
+
 My passion lies in creating sparks of imagination to transform ideas into deliverable code.
 
 <h1 align="center">Projects</h1>
