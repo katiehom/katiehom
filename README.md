@@ -141,5 +141,5 @@
 
 ----------
 <p align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=katiehom&theme=dark&hide_border=true&currStreakLabel=E30D88&fire=E30D88&ring=7CDCE3&background=050B26&dates=7CDCE3)](https://git.io/streak-stats)
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=katiehom&theme=dark&hide_border=true&currStreakLabel=E30D88&fire=E30D88&ring=7CDCE3&background=050B26&dates=7CDCE3" alt="GitHub Streak Stats"/>
 </p>
