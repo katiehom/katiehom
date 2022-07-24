@@ -36,9 +36,6 @@
         <br />
         <p align="center">
           
-  <a href="https://github.com/katiehom/theoryrevolution" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=1f1591&style=plastic&logo=github&logo-color=white"/>
-  </a>  
   <a href="https://theoryrevolution.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=c90c64&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
