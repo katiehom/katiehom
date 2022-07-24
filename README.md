@@ -2,6 +2,8 @@
   <a href="https://katiehom.netlify.app/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/52755177/167436226-789e3401-1a74-4e71-b6fe-a319fd30c02f.png" alt="Katie Hom banner"></a>
 </p>
 
+As a software engineer and former music educator, I approach obstacles with effective communication, patience, and creativity. My passion lies in creating sparks of imagination to transform ideas into deliverable code.
+
 <p align="center">
   <a href="https://katiehom.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=c90c64&style=plastic&logo=react&logo-color=white"/>
@@ -41,7 +43,7 @@
         <p><strong>React.js, JavaScript, Node.js, & CSS</strong> - Revolutionizing the way music theory can be taught, learned, and experienced!</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">SongBeats"</h3>
+      <h3 align="center">SongBeats</h3>
         <br />
       <a target="_blank" href="https://songbeats.netlify.app">
             <img src="https://user-images.githubusercontent.com/52755177/180622264-8a125f3c-29fe-46a7-8696-4ffd6c0f8ee8.gif" width="100%"  alt="SongBeats"/>
