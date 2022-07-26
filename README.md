@@ -117,9 +117,9 @@
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=1f1591&style=plastic&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=1f1591&style=plastic&logo=css3"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=FIGMA&color=5505f5&style=plastic&logo=figma"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=7105f5&style=plastic&logo=wordpress"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=8d05f5&style=plastic&logo=javascript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Figma&color=5505f5&style=plastic&logo=figma"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Wordpress&color=7105f5&style=plastic&logo=wordpress"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JavaScript&color=8d05f5&style=plastic&logo=javascript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=c905f5&style=plastic&logo=bootstrap"/>
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=c905f5&style=plastic&logo=react"/>
     <img src="https://img.shields.io/static/v1?label=|&message=NODE&color=f505b9&style=plastic&logo=node"/>
