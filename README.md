@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=Website&color=c90c64&style=plastic&logo=netlify&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/katiehom/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LinkedInN&color=1f1591&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LinkedIn&color=1f1591&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/katiehom" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Twitter&color=c90c64&style=plastic&logo=twitter&logo-color=white"/>
