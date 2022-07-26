@@ -120,12 +120,12 @@
     <img src="https://img.shields.io/static/v1?label=|&message=Figma&color=5505f5&style=plastic&logo=figma"/>
     <img src="https://img.shields.io/static/v1?label=|&message=Wordpress&color=7105f5&style=plastic&logo=wordpress"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JavaScript&color=8d05f5&style=plastic&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=c905f5&style=plastic&logo=bootstrap"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=c905f5&style=plastic&logo=react"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=NODE&color=f505b9&style=plastic&logo=node"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=f505b9&style=plastic&logo=mongodb"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=f505b9&style=plastic&logo=express"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=f50589&style=plastic&logo=git"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Bootstrap&color=c905f5&style=plastic&logo=bootstrap"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=React.js&color=c905f5&style=plastic&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Node.js&color=f505b9&style=plastic&logo=node"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Mongo DB&color=f505b9&style=plastic&logo=mongodb"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Express.js&color=f505b9&style=plastic&logo=express"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Git&color=f50589&style=plastic&logo=git"/>
 </p>
 
 ----------
