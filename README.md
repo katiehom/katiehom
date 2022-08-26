@@ -92,7 +92,7 @@
       <h3 align="center">Ben Folds Songs</h3>
         <br />
         <a target="_blank" href="https://ben-folds-api.netlify.app/">
-          <img src="https://user-images.githubusercontent.com/52755177/186995265-bb8de159-8105-42eb-a2a1-75249eb9a4b5.gif" width="100%" alt="Ben Folds Songs App"/>
+          <img src="https://user-images.githubusercontent.com/52755177/186995784-efe50111-b278-425a-ba54-aac9779028d7.gif" width="100%" alt="Ben Folds Songs App"/>
         </a>
         <br />
         <p align="center">
