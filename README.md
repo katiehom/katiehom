@@ -33,13 +33,13 @@
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
-  
+
   <tr>
   <td width="50%" valign="top">
       <h3 align="center">Backstock</h3>
         <br />
       <a target="_blank" href="https://backstock.app">
-            <img src="https://user-images.githubusercontent.com/52755177/192896850-c7c377bd-f1bf-4b71-b84d-5694e88c1354.gif" width="100%"  alt="Backstock"/>
+            <img src="https://user-images.githubusercontent.com/52755177/192898383-e45e6c43-a222-4e2f-befd-b1244fd755bf.gif" width="100%"  alt="Backstock"/>
         </a>
         <br />
         <p align="center">
