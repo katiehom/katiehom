@@ -35,6 +35,24 @@
 <table bordercolor="#66b2b2">
   
   <tr>
+  <td width="50%" valign="top">
+      <h3 align="center">Backstock</h3>
+        <br />
+      <a target="_blank" href="https://backstock.app">
+            <img src="https://user-images.githubusercontent.com/52755177/192896850-c7c377bd-f1bf-4b71-b84d-5694e88c1354.gif" width="100%"  alt="Backstock"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/katiehom/backstock5" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=1f1591&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://backstock.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=c90c64&style=plastic&logo=netlify&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Node, Express, MongoDB, EJS, Javascript, HTML, & CSS</strong> - Keep track of what you have on hand - even on the go.</p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">Theory Revolution</h3>
         <br />
@@ -49,24 +67,6 @@
   </a>
       </p>
         <p><strong>React.js, JavaScript, Node.js, & CSS</strong> - Revolutionizing the way music theory can be taught, learned, and experienced!</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">SongBeats</h3>
-        <br />
-      <a target="_blank" href="https://songbeats.netlify.app">
-            <img src="https://user-images.githubusercontent.com/52755177/180622264-8a125f3c-29fe-46a7-8696-4ffd6c0f8ee8.gif" width="100%"  alt="SongBeats"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/katiehom/song-beats" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=1f1591&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://songbeats.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=c90c64&style=plastic&logo=netlify&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Javascript, HTML, & CSS</strong> - Find a list of the top 100 songs at your ideal tempo.</p>
     </td>
   </tr>
   
