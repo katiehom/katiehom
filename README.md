@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=1f1591&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://backstock.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=c90c64&style=plastic&logo=netlify&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=c90c64&style=plastic&logo=render&logo-color=white"/>
   </a>
       </p>
         <p><strong>Node, Express, MongoDB, EJS, Javascript, HTML, & CSS</strong> - Keep track of what you have on hand - even on the go.</p>
