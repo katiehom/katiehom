@@ -20,7 +20,7 @@
 <p align="center">
     As a software engineer and former music educator, I approach obstacles with effective communication, patience, and creativity.
   <br />
-    My passion lies in creating sparks of imagination to transform ideas into deliverable code.
+    I transform sparks of imagination into deliverable code.
 </p>
 
 ----------
