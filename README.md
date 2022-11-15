@@ -121,7 +121,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=7105f5&style=plastic&logo=wordpress"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=8d05f5&style=plastic&logo=javascript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=c905f5&style=plastic&logo=bootstrap"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=TAILWIND.CSS&color=c905f5&style=plastic&logo=tailwind_css"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=TAILWIND.CSS&color=c905f5&style=plastic&logo=Tailwind_CSS"/>
     <img src="https://img.shields.io/static/v1?label=|&message=PASSPORT.JS&color=c905f5&style=plastic&logo=passport"/>
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=c905f5&style=plastic&logo=react"/>
     <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=f505b9&style=plastic&logo=node.js"/>
