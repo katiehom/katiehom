@@ -124,7 +124,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=TAILWIND.CSS&color=c905f5&style=plastic&logo=tailwind"/>
     <img src="https://img.shields.io/static/v1?label=|&message=PASSPORT.JS&color=c905f5&style=plastic&logo=passport"/>
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=c905f5&style=plastic&logo=react"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=f505b9&style=plastic&logo=nodejs"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=f505b9&style=plastic&logo=node.js"/>
     <img src="https://img.shields.io/static/v1?label=|&message=HEROKU&color=f505b9&style=plastic&logo=heroku"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO DB&color=f505b9&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGOOSE&color=f505b9&style=plastic&logo=mongoose"/>
