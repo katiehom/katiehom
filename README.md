@@ -20,7 +20,7 @@
 <p align="center">
     As a software engineer and former music educator, I approach obstacles with effective communication, patience, and creativity.
   <br />
-    I transform sparks of imagination into deliverable code.
+    I love collaborating with others and I enjoy transforming sparks of imagination into deliverable code.
 </p>
 
 ----------
