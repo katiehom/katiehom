@@ -123,7 +123,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=8d05f5&style=plastic&logo=javascript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JQUERY&color=8d05f5&style=plastic&logo=jquery"/>
     <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=c905f5&style=plastic&logo=bootstrap"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=SEMANTIC%20UI&color=c905f5&style=plastic&logo=SemanticUIReact"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=SEMANTIC%20UI%20REACT&color=c905f5&style=plastic&logo=SemanticUIReact"/>
     <img src="https://img.shields.io/static/v1?label=|&message=TAILWIND.CSS&color=c905f5&style=plastic&logo=tailwind-css"/>
     <img src="https://img.shields.io/static/v1?label=|&message=STYLED%20COMPONENTS&color=c905f5&style=plastic&logo=styled-components"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JWT&color=c905f5&style=plastic&logo=JSON%20web%20tokens"/>
