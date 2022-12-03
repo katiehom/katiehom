@@ -118,19 +118,21 @@
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=1f1591&style=plastic&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=1f1591&style=plastic&logo=css3"/>
     <img src="https://img.shields.io/static/v1?label=|&message=FIGMA&color=5505f5&style=plastic&logo=figma"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=ADOBE%20ILLUSTRATOR&color=5505f5&style=plastic&logo=adobe%20illustrator"/>  
+  adobe%20illustrator
     <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=7105f5&style=plastic&logo=wordpress"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=8d05f5&style=plastic&logo=javascript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JQUERY&color=8d05f5&style=plastic&logo=jquery"/>
     <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=c905f5&style=plastic&logo=bootstrap"/>
     <img src="https://img.shields.io/static/v1?label=|&message=TAILWIND.CSS&color=c905f5&style=plastic&logo=tailwind-css"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=STYLED_COMPONENTS&color=c905f5&style=plastic&logo=styled-components"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=STYLED%20COMPONENTS&color=c905f5&style=plastic&logo=styled-components"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JWT&color=c905f5&style=plastic&logo=JSON%20web%20tokens"/>
     <img src="https://img.shields.io/static/v1?label=|&message=PASSPORT.JS&color=c905f5&style=plastic&logo=passport"/>
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=c905f5&style=plastic&logo=react"/>
     <img src="https://img.shields.io/static/v1?label=|&message=REDUX&color=c905f5&style=plastic&logo=redux"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=REACT_ROUTER&color=c905f5&style=plastic&logo=react-router"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT%20ROUTER&color=c905f5&style=plastic&logo=react-router"/>
     <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=f505b9&style=plastic&logo=node.js"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=REST API&color=f505b9&style=plastic&logo=node.js"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REST%20API&color=f505b9&style=plastic&logo=node.js"/>
     <img src="https://img.shields.io/static/v1?label=|&message=HEROKU&color=f505b9&style=plastic&logo=heroku"/>
     <img src="https://img.shields.io/static/v1?label=|&message=RENDER&color=f505b9&style=plastic&logo=render"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO DB&color=f505b9&style=plastic&logo=mongodb"/>
@@ -149,12 +151,12 @@
     <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO&color=c90c64&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/katiehom/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED_IN&color=1f1591&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED%20IN&color=1f1591&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/katiehom" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=c90c64&style=plastic&logo=twitter&logo-color=white"/>
   </a>
   <a href="https://angel.co/u/katie-hom" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL_LIST&color=1f1591&style=plastic&logo=angellist&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL%20LIST&color=1f1591&style=plastic&logo=angellist&logo-color=white"/>
   </a>
 </p>
