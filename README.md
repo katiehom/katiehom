@@ -123,7 +123,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=c905f5&style=plastic&logo=bootstrap"/>
     <img src="https://img.shields.io/static/v1?label=|&message=TAILWIND.CSS&color=c905f5&style=plastic&logo=tailwind-css"/>
     <img src="https://img.shields.io/static/v1?label=|&message=STYLED COMPONENTS&color=c905f5&style=plastic&logo=styled-components"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=JWT&color=c905f5&style=plastic&logo=jwt"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JWT&color=c905f5&style=plastic&logo=JSON%20web%20tokens"/>
     <img src="https://img.shields.io/static/v1?label=|&message=PASSPORT.JS&color=c905f5&style=plastic&logo=passport"/>
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=c905f5&style=plastic&logo=react"/>
     <img src="https://img.shields.io/static/v1?label=|&message=REDUX&color=c905f5&style=plastic&logo=redux"/>
