@@ -119,7 +119,6 @@
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=1f1591&style=plastic&logo=css3"/>
     <img src="https://img.shields.io/static/v1?label=|&message=FIGMA&color=5505f5&style=plastic&logo=figma"/>
     <img src="https://img.shields.io/static/v1?label=|&message=ADOBE%20ILLUSTRATOR&color=5505f5&style=plastic&logo=adobe%20illustrator"/>
-
     <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=7105f5&style=plastic&logo=wordpress"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=8d05f5&style=plastic&logo=javascript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JQUERY&color=8d05f5&style=plastic&logo=jquery"/>
