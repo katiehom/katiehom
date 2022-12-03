@@ -130,6 +130,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=f505b9&style=plastic&logo=node.js"/>
     <img src="https://img.shields.io/static/v1?label=|&message=REST API&color=f505b9&style=plastic&logo=node.js"/>
     <img src="https://img.shields.io/static/v1?label=|&message=HEROKU&color=f505b9&style=plastic&logo=heroku"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=RENDER&color=f505b9&style=plastic&logo=render"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO DB&color=f505b9&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGOOSE&color=f505b9&style=plastic&logo=mongoose"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS.JS&color=f505b9&style=plastic&logo=express"/>
