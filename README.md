@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://katiehom.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=c90c64&style=plastic&logo=netlify&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MY_WEBSITE&color=c90c64&style=plastic&logo=netlify&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/katiehom/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED_IN&color=1f1591&style=plastic&logo=linkedin&logo-color=white"/>
@@ -146,7 +146,7 @@
 <h1 align="center">Connect</h1>
 <p align="center">
   <a href="https://katiehom.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=c90c64&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MY_WEBSITE&color=c90c64&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/katiehom/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED_IN&color=1f1591&style=plastic&logo=linkedin&logo-color=white"/>
