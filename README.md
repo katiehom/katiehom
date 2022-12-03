@@ -7,13 +7,13 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=c90c64&style=plastic&logo=netlify&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/katiehom/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=1f1591&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED_IN&color=1f1591&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/katiehom" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=c90c64&style=plastic&logo=twitter&logo-color=white"/>
   </a>
   <a href="https://angel.co/u/katie-hom" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=1f1591&style=plastic&logo=angellist&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL_LIST&color=1f1591&style=plastic&logo=angellist&logo-color=white"/>
   </a>
 </p>
 
@@ -120,6 +120,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=FIGMA&color=5505f5&style=plastic&logo=figma"/>
     <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=7105f5&style=plastic&logo=wordpress"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=8d05f5&style=plastic&logo=javascript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JQUERY&color=8d05f5&style=plastic&logo=jquery"/>
     <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=c905f5&style=plastic&logo=bootstrap"/>
     <img src="https://img.shields.io/static/v1?label=|&message=TAILWIND.CSS&color=c905f5&style=plastic&logo=tailwind-css"/>
     <img src="https://img.shields.io/static/v1?label=|&message=STYLED_COMPONENTS&color=c905f5&style=plastic&logo=styled-components"/>
@@ -147,12 +148,12 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=c90c64&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/katiehom/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=1f1591&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED_IN&color=1f1591&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/katiehom" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=c90c64&style=plastic&logo=twitter&logo-color=white"/>
   </a>
   <a href="https://angel.co/u/katie-hom" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=1f1591&style=plastic&logo=angellist&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL_LIST&color=1f1591&style=plastic&logo=angellist&logo-color=white"/>
   </a>
 </p>
