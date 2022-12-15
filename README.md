@@ -142,6 +142,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS.JS&color=f505b9&style=plastic&logo=express"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=f50589&style=plastic&logo=git"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GITHUB&color=f50589&style=plastic&logo=github"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GOOGLE%20ANALYTICS&color=f50589&style=plastic&logo=google%20analytics"/>
 </p>
 
 ----------
