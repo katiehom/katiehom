@@ -72,21 +72,21 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">KatieHom.com</h3>
+      <h3 align="center">FridgeSpace</h3>
       <br />
-        <a target="_blank" href="https://katiehom.netlify.app">
-          <img src="https://user-images.githubusercontent.com/52755177/180623739-fbf4f9ef-d1e2-4cb3-8717-0f139b4af221.gif" width="100%" alt="Portfolio"/>
+        <a target="_blank" href="https://fridgespace.fly.dev/">
+          <img src="https://user-images.githubusercontent.com/52755177/208049178-6a56b506-55b1-4d30-a2a9-be6ddf9d7907.gif" alt="FridgeSpace"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/katiehom/katie-hom" target="_blank">
+  <a href="https://github.com/katiehom/fridgespace" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=1f1591&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="http://katiehom.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=c90c64&style=plastic&logo=netlify&logo-color=white"/>
+  <a href="https://fridgespace.fly.dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=c90c64&style=plastic"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio site displaying my work and contact information.</p>
+        <p><strong>Cloudinary, Node.js, Express.js, MongoDB, Mongoose, EJS, Passport, Tailwind CSS, and DaisyUI using MVC architecture</strong> - Memories can live on - online - instead of on the fridge. Users can upload children’s artwork, greeting cards and other photos to display in their gallery.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Ben Folds Songs</h3>
