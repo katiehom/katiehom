@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=c90c64&style=plastic&logo=render&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Node, Express, MongoDB, EJS, Javascript, HTML, & CSS</strong> - Keep track of what you have on hand - even on the go.</p>
+        <p><strong>Node, Express, MongoDB, EJS, Javascript, & CSS</strong> - Keep track of what you have on hand - even on the go.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Theory Revolution</h3>
