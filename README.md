@@ -86,7 +86,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=c90c64&style=plastic"/>
   </a>
       </p>
-        <p><strong>Cloudinary, Node.js, Express.js, MongoDB, Mongoose, EJS, Passport, Tailwind CSS, and DaisyUI using MVC architecture</strong> - Memories can live on - online - instead of on the fridge. Users can upload children’s artwork, greeting cards and other photos to display in their gallery.</p>
+        <p><strong>Cloudinary, Node.js, Express.js, MongoDB, Mongoose, EJS, Passport, Tailwind CSS, and DaisyUI using MVC architecture</strong> - Memories can live on - online - instead of on the fridge.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Ben Folds Songs</h3>
