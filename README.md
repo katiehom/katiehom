@@ -125,6 +125,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=JWT&color=c905f5&style=plastic&logo=JSON%20web%20tokens"/>
     <img src="https://img.shields.io/static/v1?label=|&message=PASSPORT.JS&color=c905f5&style=plastic&logo=passport"/>
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=c905f5&style=plastic&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=NEXT.JS&color=c905f5&style=plastic&logo=next.js"/>
     <img src="https://img.shields.io/static/v1?label=|&message=REDUX&color=c905f5&style=plastic&logo=redux"/>
     <img src="https://img.shields.io/static/v1?label=|&message=REACT%20ROUTER&color=c905f5&style=plastic&logo=react-router"/>
     <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=f505b9&style=plastic&logo=node.js"/>
