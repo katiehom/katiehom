@@ -139,21 +139,3 @@
     <img src="https://img.shields.io/static/v1?label=|&message=GITHUB&color=f50589&style=plastic&logo=github"/>
 </p>
 
-----------
-
-
-<h1 align="center">Connect</h1>
-<p align="center">
-  <a href="https://katiehom.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO&color=c90c64&style=plastic&logo=react&logo-color=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/katiehom/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED%20IN&color=1f1591&style=plastic&logo=linkedin&logo-color=white"/>
-  </a>
-  <a href="https://twitter.com/katiehom" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=c90c64&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
-  <a href="https://angel.co/u/katie-hom" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL%20LIST&color=1f1591&style=plastic&logo=angellist&logo-color=white"/>
-  </a>
-</p>
