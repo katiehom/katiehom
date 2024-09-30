@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=c90c64&style=plastic&logo=twitter&logo-color=white"/>
   </a>
   <a href="https://angel.co/u/katie-hom" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL%20LIST&color=1f1591&style=plastic&logo=angellist&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=WELLFOUND&color=1f1591&style=plastic&logo=angellist&logo-color=white"/>
   </a>
 </p>
 
